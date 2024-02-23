@@ -7,8 +7,7 @@ Welcome to the GitHub repository for Project1-Caffeine. This project includes a 
 - `miniproject.pdf`: Contains the project report, including a list of dependencies and instructions for retrieval, installation, and configuration.
 - `python-src`: Contains the Python source code.
 - `java-src`: Contains the Java source code.
-- `cpp-src`: Contains the C++ source code.
-- `test-data`: Contains data files used for testing purposes.
+- `cpp-src`: Contains the C++ source code..
 
 ## Dependencies
 
