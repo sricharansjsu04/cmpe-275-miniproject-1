@@ -1,0 +1,9 @@
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/basic_socket.dir
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/serverApp.dir
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/clientApp.dir
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/edit_cache.dir
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/rebuild_cache.dir
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/list_install_components.dir
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/install.dir
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/install/local.dir
+/Users/charan/Desktop/SJSU/275/socket-3code/cpp-src/basic/src/build/CMakeFiles/install/strip.dir
