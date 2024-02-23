@@ -17,6 +17,12 @@ Please refer to `miniproject.pdf` for a detailed description of
 4. Performance and memory recorded for client and server between intra and inter language message constructs
 5. Linters, Analysers and Sanitizers used for Java, Cpp, Python languages
 
+   | Clt/Svr  | Java     | Python3  | C/C++    |
+   | -------- | :------: | :------: | :------: |
+   | Java     | Y        | Y        | Y        | 
+   | Python3  | Y        | Y        | Y        | 
+   | C/C++    | Y        | Y        | Y        | 
+
 ## Running the Code
 
 ### Python
