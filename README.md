@@ -1,17 +1,21 @@
 # 275-Mini-Project-1
 
-Welcome to the GitHub repository for Project1-Caffeine. This project includes a comprehensive report, source code in Python, Java, and C++, and test data necessary for evaluation. Our goal is to provide a clear, structured, and easy-to-navigate repository for both the development team and external reviewers.
 
 ## Project Structure
 
-- `miniproject.pdf`: Contains the project report, including a list of dependencies and instructions for retrieval, installation, and configuration.
+- `miniproject.pdf`: Contains the project report.
 - `python-src`: Contains the Python source code.
 - `java-src`: Contains the Java source code.
 - `cpp-src`: Contains the C++ source code..
 
 ## Dependencies
 
-Please refer to `miniproject.pdf` for a detailed list of dependencies and instructions on how to install and configure them.
+Please refer to `miniproject.pdf` for a detailed description of 
+1. Hardened code.
+2. Error handling.
+3. Edge Case handling.
+4. Performance and memory recorded for client and server between intra and inter language message constructs
+5. Linters, Analysers and Sanitizers used for Java, Cpp, Python languages
 
 ## Running the Code
 
@@ -38,8 +42,6 @@ make
 After compiling, you can run the generated executable(s) located within the build directory. The exact command will depend on the naming convention of your project's output file, for example:
 ./clientApp
 
-
-## Problem statement
 
 # Socket - Tri-Code Interoperability
 
