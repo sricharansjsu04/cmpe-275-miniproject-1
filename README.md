@@ -1,4 +1,4 @@
-# Mini-Project-1
+# 275-Mini-Project-1
 
 Welcome to the GitHub repository for Project1-Caffeine. This project includes a comprehensive report, source code in Python, Java, and C++, and test data necessary for evaluation. Our goal is to provide a clear, structured, and easy-to-navigate repository for both the development team and external reviewers.
 
