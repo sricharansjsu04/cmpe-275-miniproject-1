@@ -11,7 +11,7 @@
 ## Dependencies
 
 Please refer to `miniproject.pdf` for a detailed description of 
-1. Hardened code.
+1. Code hardening
 2. Error handling.
 3. Edge Case handling.
 4. Performance and memory recorded for client and server between intra and inter language message constructs
